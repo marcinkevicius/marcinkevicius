@@ -1,16 +1,16 @@
-## Hi there 👋
+### Alexander Marcinkevičius
 
-<!--
-**marcinkevicius/marcinkevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product leader, builder, and operator rooted in software engineering.
 
-Here are some ideas to get you started:
+I work at the intersection of product, technology, and execution—from early-stage ventures to enterprise systems. Scale-, role-, and stack-agnostic: leader or IC, in-house or fractional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ventures & Products:** Building and operating via [Geekchester](https://geekchester.com), including [Athlon Games](https://athlon.games) and a few other pet projects.
+- **Open Source:** Occasionally packaging pragmatic tools born out of real needs, e.g. [gsm2http](https://github.com/gsm2http/gsm2http).
+- **Focus:** Building & Distributing, Applied AI, agentic workflows.
+- **Background:** Software engineering, product lead, engineering manager, college lecturer, entrepreneur.
+
+Outside of work: football (playing & coaching), bikepacking, singing, snowboarding.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/amarcinkevicius/)
